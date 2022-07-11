@@ -2,5 +2,37 @@
 
 - Chapter 1: Arjun Viṣhād Yog
   - Lamenting the Consequences of War
-  
-
+- Chapter 2: Sānkhya Yog
+  - The Yog of Analytical Knowledge
+- Chapter 3: Karm Yog
+  - The Yog of Action
+- Chapter 4: Jñāna Karm Sanyās Yog
+  - The Yog of Knowledge and the Disciplines of Action
+- Chapter 5: Karm Sanyās Yog
+  - The Yog of Renunciation
+- Chapter 6: Dhyān Yog
+  - The Yog of Meditation
+- Chapter 7: Jñāna Vijñāna Yog
+  - The Yog through the Realization of Divine Knowledge
+- Chapter 8: Akṣhar Brahma Yog
+  - The Yog of the Eternal God
+- Chapter 9: Rāja Vidyā Yog
+  - The Yog through the King of Sciences
+- Chapter 10: Vibhūti Yog
+  - The Yog through Appreciating the Infinite Opulences of God
+- Chapter 11: Viśhwarūp Darśhan Yog
+  - The Yog through Beholding the Cosmic Form of God
+- Chapter 12: Bhakti Yog
+  - The Yog of Devotion
+- Chapter 13: Kṣhetra Kṣhetrajña Vibhāg Yog
+  - The Yog through Distinguishing the Field and the Knower of the Field
+- Chapter 14: Guṇa Traya Vibhāg Yog
+  - The Yog through Understanding the Three Modes of Material Nature
+- Chapter 15: Puruṣhottam Yog
+  - The Yog of the Supreme Divine Personality
+- Chapter 16: Daivāsura Sampad Vibhāg Yog
+  - The Yog through Discerning the Divine and Demoniac Natures
+- Chapter 17: Śhraddhā Traya Vibhāg Yog
+  - The Yog through Discerning the Three Divisions of Faith
+- Chapter 18: Mokṣha Sanyās Yog
+  - The Yog through the Perfection of Renunciation and Surrender
