@@ -1,7 +1,5 @@
 # Bhagavad-Gita
 
----
-
 ## Chapter 1: Arjun Vishad Yog | Lamenting the Consequences of war | 47 Verses
 
 <!--
