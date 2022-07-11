@@ -11,4 +11,32 @@
 - He had bestowed upon Sanjay the miraculous power of distant vision.
 - Therefore, Sanjay could see and hear, what transpired on the battleground of Kurukshetra, and gave a first-hand account to King Dhritarashtra while still being in his palace.
 
+## Verse 1.1
+
+```
+धृतराष्ट्र उवाच |
+धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |
+मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||
+```
+
+```
+dhṛitarāśhtra uvācha
+dharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ
+māmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya
+```
+
+1.  dhṛitarāśhtraḥ uvācha—Dhritarashtra said;
+2.  dharma-kṣhetre—the land of dharma;
+3.  kuru-kṣhetre—at Kurukshetra;
+4.  samavetāḥ—having gathered;
+5.  yuyutsavaḥ—desiring to fight;
+6.  māmakāḥ—my sons;
+7.  pāṇḍavāḥ—the sons of Pandu;
+8.  cha—and;
+9.  eva—certainly;
+10. kim—what;
+11. akurvata—did they do;
+12. sañjaya—Sanjay
+
+
 
